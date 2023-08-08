@@ -8,18 +8,6 @@ Say that we have 'agent codes' that represent people in the form of 4-character 
 
 One way of identifying the other 'intermediates' between the two agents would be relative to their codes' characters. For example, if agents AAAA and BJCK want to communicate, a chain must be established so that the message propagates from AAAA -> BAAA -> BJAA -> BJCA -> BJCK. For each new intermediate agent, one character from the original sender is changed to match that of the intended receiver.
 
-### Part 1: Awaken, Sleeper Agents!
-
-To identify this chain, a binary search tree will be used. 
-
-### Part 2: CORE is the Center
-
-WIP
-
-### Part 3: Data Visualizations
-
-WIP
-
 ## Codebase
 
 This project was written in Python, and stored in one Jupyter Notebook in the main directory. 
